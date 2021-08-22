@@ -23,7 +23,6 @@ namespace Gallery_Hackathon
         {
             {257, "NVS036APL"},
             {258, "NVS053APL"},
-            {259, "NVS024BPL"},
             {260, "NVS002APL"},
             {261, "NVS037APL"},
             {262, "NVS031APL"},
@@ -40,10 +39,8 @@ namespace Gallery_Hackathon
             {274, "NVS015APL"},
             {333, "NVS005BPL"},
             {403, "NVS006APL"},
-            {1548, "NVS201ASS"},
-            {1549, "NVS201BSS"},
-            {1572, "NVS101BSS"},
             {2657, "NVS013APL"},
+            {40, "Undefined_0"},
         };
     }
 }

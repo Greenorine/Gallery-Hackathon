@@ -32,6 +32,6 @@ namespace Gallery_Hackathon.Models
 
         public override string ToString() =>
             $"{PlayerId}: Number[{PlayerNumber}], Mac[{MacAddress}], Advert[{AdvertId}], IsHoliday[{isHoliday}]," +
-            $" Day[{Day}], DayOfWeak[{DayOfWeek}], Month[{Month}], Hour[{Hour}]";
+            $" Day[{Day}], DayOfWeek[{DayOfWeek}], Month[{Month}], Hour[{Hour}]";
     }
 }
